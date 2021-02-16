@@ -1,15 +1,15 @@
 ﻿
-namespace Template.Project.WinForms
+namespace Template.Project.WinForms.SubForms
 {
-    partial class Main
+    partial class Settings
     {
         /// <summary>
-        ///  Required designer variable.
+        /// Required designer variable.
         /// </summary>
         private System.ComponentModel.IContainer components = null;
 
         /// <summary>
-        ///  Clean up any resources being used.
+        /// Clean up any resources being used.
         /// </summary>
         /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
         protected override void Dispose(bool disposing)
@@ -24,20 +24,20 @@ namespace Template.Project.WinForms
         #region Windows Form Designer generated code
 
         /// <summary>
-        ///  Required method for Designer support - do not modify
-        ///  the contents of this method with the code editor.
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
         /// </summary>
         private void InitializeComponent()
         {
             this.SuspendLayout();
             // 
-            // Main
+            // Settings
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Name = "Main";
-            this.Text = "Main";
+            this.Name = "Settings";
+            this.Text = "Settings";
             this.ResumeLayout(false);
 
         }
@@ -45,4 +45,3 @@ namespace Template.Project.WinForms
         #endregion
     }
 }
-

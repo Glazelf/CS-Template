@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Template.Project.Handler
+﻿namespace Template.Project.Handler
 {
     public class Conversions
     {

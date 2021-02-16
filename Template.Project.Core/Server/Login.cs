@@ -1,4 +1,4 @@
-﻿namespace Template.Project.Core.Server
+﻿namespace Template.Project.Core
 {
     class Login
     {

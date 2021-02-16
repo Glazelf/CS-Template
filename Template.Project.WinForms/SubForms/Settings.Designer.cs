@@ -1,5 +1,5 @@
 ﻿
-namespace Template.Project.WinForms.SubForms
+namespace Template.Project.WinForms
 {
     partial class Settings
     {

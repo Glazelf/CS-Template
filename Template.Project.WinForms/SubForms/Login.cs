@@ -1,6 +1,6 @@
 ﻿using System.Windows.Forms;
 
-namespace Template.Project.WinForms.SubForms
+namespace Template.Project.WinForms
 {
     public partial class Login : Form
     {

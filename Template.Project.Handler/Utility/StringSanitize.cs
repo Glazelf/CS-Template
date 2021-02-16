@@ -1,4 +1,4 @@
-﻿namespace Template.Project.Handler.Utility
+﻿namespace Template.Project.Handler
 {
     class StringSanitize
     {
